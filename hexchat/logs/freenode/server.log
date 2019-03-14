@@ -1,0 +1,53 @@
+**** BEGIN LOGGING AT Thu Feb 14 17:05:36 2019
+
+Feb 14 17:05:36 *	Looking up chat.freenode.net
+**** BEGIN LOGGING AT Thu Feb 14 17:07:07 2019
+
+Feb 14 17:07:07 Usage: SERVER [-ssl] <host> [<port>] [<password>], connects to a server, the default port is 6667 for normal connections, and 6697 for ssl connections
+Feb 14 17:07:31 
+Commands Available:
+
+Feb 14 17:07:31   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Feb 14 17:07:31   AWAY      BACK      BAN       CHANOPT   CHARSET
+Feb 14 17:07:31   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Feb 14 17:07:31   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Feb 14 17:07:31   DEVOICE   DISCON    DNS       DOAT      ECHO
+Feb 14 17:07:31   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Feb 14 17:07:31   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Feb 14 17:07:31   GETSTR    GHOST     GUI       HELP      HOP
+Feb 14 17:07:31   ID        IGNORE    INVITE    JOIN      KICK
+Feb 14 17:07:31   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Feb 14 17:07:31   LOAD      MDEHOP    MDEOP     ME        MENU
+Feb 14 17:07:31   MHOP      MKICK     MODE      MOP       MSG
+Feb 14 17:07:31   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Feb 14 17:07:31   NOTIFY    OP        PART      PING      QUERY
+Feb 14 17:07:31   QUIET     QUIT      QUOTE     RECONNECT RECV
+Feb 14 17:07:31   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Feb 14 17:07:31   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Feb 14 17:07:31   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Feb 14 17:07:31   UNQUIET   URL       USELECT   USERLIST  VOICE
+Feb 14 17:07:31   WALLCHAN  WALLCHOP  
+Feb 14 17:07:31 
+User defined commands:
+
+Feb 14 17:07:31   ACTION    AME       ANICK     AMSG      BANLIST
+Feb 14 17:07:31   CHAT      DIALOG    DMSG      EXIT      GREP
+Feb 14 17:07:31   IGNALL    J         KILL      LEAVE     M
+Feb 14 17:07:31   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Feb 14 17:07:31   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Feb 14 17:07:31   VER       VERSION   WALLOPS   WI        WII
+Feb 14 17:07:31   
+Feb 14 17:07:31 
+Plugin defined commands:
+
+Feb 14 17:07:31   UNLOAD    ME        MSG+      NOTICE+   TOPIC+
+Feb 14 17:07:31   KEYX      DELKEY    SETKEY    CHECKSUM  SYSINFO
+Feb 14 17:07:31   RELOAD    UNLOAD    LOAD      PY        LUA
+Feb 14 17:07:31   RELOAD    UNLOAD    LOAD      PL        RELOADALL
+Feb 14 17:07:31   UNLOADALL PL_RELOAD RELOAD    UNLOAD    LOAD
+Feb 14 17:07:31   IDENTD    TIMER     
+Feb 14 17:07:31 
+Type /HELP <command> for more information, or /HELP -l
+
+Feb 14 17:09:54 Not connected. Try /server <host> [<port>]
+Feb 14 17:09:57 Not connected. Try /server <host> [<port>]

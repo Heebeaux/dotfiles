@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/heebo/Documents/roms/n64/Legend of Zelda, The - Majora's Mask (U) [!].v64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "/usr/lib/libretro/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/snes/Final Fantasy III (U) (V1.1) [!].smc",
+      "label": "Final Fantasy III (USA) (Rev 1)",
+      "core_path": "/usr/lib/libretro/bsnes_accuracy_libretro.so",
+      "core_name": "bsnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/n64/Paper Mario (U) [!].v64",
+      "label": "Paper Mario (USA)",
+      "core_path": "/usr/lib/libretro/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/n64/Super Mario 64 (U) [!].v64",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "/usr/lib/libretro/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/snes/Legend of Zelda, The - A Link to the Past (U) [!].smc",
+      "label": "Legend of Zelda, The - A Link to the Past (USA)",
+      "core_path": "/usr/lib/libretro/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/n64/Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!].v64",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA) (Rev B)",
+      "core_path": "/usr/lib/libretro/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/snes/Secret of Mana (U) [!].smc",
+      "label": "Secret of Mana (USA)",
+      "core_path": "/usr/lib/libretro/bsnes_accuracy_libretro.so",
+      "core_name": "bsnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/snes/Soul Blazer (U) [!].smc",
+      "label": "Soul Blazer (USA)",
+      "core_path": "/usr/lib/libretro/bsnes_accuracy_libretro.so",
+      "core_name": "bsnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/heebo/Documents/roms/snes/Terranigma (Europe).zip#Terranigma (Europe).sfc",
+      "label": "Terranigma (Europe)",
+      "core_path": "/usr/lib/libretro/bsnes_accuracy_libretro.so",
+      "core_name": "bsnes",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

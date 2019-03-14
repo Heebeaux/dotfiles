@@ -1,0 +1,119 @@
+**** BEGIN LOGGING AT Thu Feb 14 17:05:36 2019
+
+Feb 14 17:05:36 Perl interface loaded
+Feb 14 17:05:36 Lua version 1.3/5.3 loaded.
+Feb 14 17:05:36 Python interface loaded
+Feb 14 17:05:36 Sysinfo plugin loaded
+Feb 14 17:05:36 Checksum plugin loaded
+Feb 14 17:05:36 FiSHLiM plugin loaded
+**** BEGIN LOGGING AT Thu Feb 14 17:06:32 2019
+
+Feb 14 17:06:32 Perl interface loaded
+Feb 14 17:06:32 Lua version 1.3/5.3 loaded.
+Feb 14 17:06:32 Python interface loaded
+Feb 14 17:06:32 Sysinfo plugin loaded
+Feb 14 17:06:32 Checksum plugin loaded
+Feb 14 17:06:32 FiSHLiM plugin loaded
+Feb 14 17:06:32 *	Looking up chat.freenode.net
+Feb 14 17:06:32 *	Connecting to chat.freenode.net (2001:948:7:7::140:6667)
+Feb 14 17:06:32 *	Connected. Now logging in.
+Feb 14 17:06:32 *	*** Looking up your hostname...
+Feb 14 17:06:32 *	*** Checking Ident
+Feb 14 17:06:32 *	*** Couldn't look up your hostname
+Feb 14 17:06:42 *	*** No Ident response
+Feb 14 17:06:43 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Feb 14 17:06:43 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Feb 14 17:06:43 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+Feb 14 17:06:43 *	Welcome to the freenode Internet Relay Chat Network manjaroi3
+Feb 14 17:06:43 *	Your host is wolfe.freenode.net[2001:948:7:7::140/6667], running version ircd-seven-1.1.7
+Feb 14 17:06:43 *	This server was created Sat Sep 1 2018 at 18:07:18 UTC
+Feb 14 17:06:43 *	wolfe.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Feb 14 17:06:43 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Feb 14 17:06:43 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK SAFELIST ELIST=CTU :are supported by this server
+Feb 14 17:06:43 *	WHOX CPRIVMSG CNOTICE ETRACE :are supported by this server
+Feb 14 17:06:43 *	There are 114 users and 87475 invisible on 32 servers
+Feb 14 17:06:43 *	36 :IRC Operators online
+Feb 14 17:06:43 *	2 :unknown connection(s)
+Feb 14 17:06:43 *	51475 :channels formed
+Feb 14 17:06:43 *	I have 5322 clients and 1 servers
+Feb 14 17:06:43 *	5322 5940 :Current local users 5322, max 5940
+Feb 14 17:06:43 *	87589 94264 :Current global users 87589, max 94264
+Feb 14 17:06:43 *	Highest connection count: 5941 (5940 clients) (594347 connections received)
+Feb 14 17:06:43 *	- wolfe.freenode.net Message of the Day - 
+Feb 14 17:06:43 *	- Welcome to wolfe.freenode.net in Stockholm, SE.
+Feb 14 17:06:43 *	- Thanks to http://nordu.net/ for sponsoring
+Feb 14 17:06:43 *	- this server!
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- WOLFE, GENE [1931-].  Prolific writer of short stories and
+Feb 14 17:06:43 *	- novels. His best-known work is the multi-volume novel The
+Feb 14 17:06:43 *	- Book of the New Sun. He has won multiple awards including
+Feb 14 17:06:43 *	- the Nebula Award, the World Fantasy Award, The Campell
+Feb 14 17:06:43 *	- Memorial Award and the Locus Award. He was awarded the World
+Feb 14 17:06:43 *	- Fantasy Award for lifetime achievement in 1996.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- Welcome to freenode - supporting the free and open source
+Feb 14 17:06:43 *	- software communities since 1998.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- By connecting to freenode you indicate that you have read and
+Feb 14 17:06:43 *	- accept our policies and guidelines as set out on https://freenode.net
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- In the event that you observe behaviour that contravenes our policies,
+Feb 14 17:06:43 *	- please notify a volunteer staff member via private message, or send us an
+Feb 14 17:06:43 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Feb 14 17:06:43 *	- situation within a reasonable period of time, and we may request further
+Feb 14 17:06:43 *	- information or, as appropriate, involve other parties such as channel operators 
+Feb 14 17:06:43 *	- Group Contacts representing an on-topic group.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- freenode runs an open proxy scanner.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- If you are looking for assistance, you may be able to find a list of 
+Feb 14 17:06:43 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Feb 14 17:06:43 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Feb 14 17:06:43 *	- any of us at any time. Please note that freenode predominantly provides 
+Feb 14 17:06:43 *	- assistance via private message, and while we have a network channel the 
+Feb 14 17:06:43 *	- primary venue for support requests is via private message to a member 
+Feb 14 17:06:43 *	- of the volunteer staff team.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- From time to time, volunteer staff may send server-wide notices relating to
+Feb 14 17:06:43 *	- the project, or the communities that we host. The majority of such notices
+Feb 14 17:06:43 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Feb 14 17:06:43 *	- do not miss them. Important messages relating to the freenode project, including
+Feb 14 17:06:43 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Feb 14 17:06:43 *	- global notices.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- Representing an on-topic project? Don't forget to register, more information
+Feb 14 17:06:43 *	- can be found on the https://freenode.net website under "Group Registration".
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Feb 14 17:06:43 *	- network going for close to two decades.
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Feb 14 17:06:43 *	- and everyone else who made this year's freenode #live conference amazing.
+Feb 14 17:06:43 *	- https://freenode.net/news/live-2018
+Feb 14 17:06:43 *	-  
+Feb 14 17:06:43 *	- Thank you for using freenode!
+Feb 14 17:06:43 *	End of /MOTD command.
+Feb 14 17:06:43 *	manjaroi3 sets mode +i on manjaroi3
+Feb 14 17:06:43 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Feb 14 17:06:44 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Feb 14 17:06:44 *	Received a CTCP VERSION from freenode-connect
+Feb 14 17:06:49 *	Disconnected ()
+**** ENDING LOGGING AT Thu Feb 14 17:06:49 2019
+
+**** BEGIN LOGGING AT Thu Feb 14 17:12:10 2019
+
+Feb 14 17:12:10 Perl interface loaded
+Feb 14 17:12:10 Lua version 1.3/5.3 loaded.
+Feb 14 17:12:10 Python interface loaded
+Feb 14 17:12:10 Sysinfo plugin loaded
+Feb 14 17:12:10 Checksum plugin loaded
+Feb 14 17:12:10 FiSHLiM plugin loaded
+Feb 14 17:12:10 *	Looking up chat.freenode.net
+Feb 14 17:12:10 *	Connecting to chat.freenode.net (2001:6b0:e:2a18::119:6667)
+Feb 14 17:12:11 *	Connected. Now logging in.
+Feb 14 17:12:11 *	*** Looking up your hostname...
+Feb 14 17:12:11 *	*** Checking Ident
+Feb 14 17:12:11 *	*** Couldn't look up your hostname
+Feb 14 17:12:15 *	Disconnected ()
+**** ENDING LOGGING AT Thu Feb 14 17:14:40 2019
+

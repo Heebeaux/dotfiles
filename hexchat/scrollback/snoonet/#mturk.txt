@@ -1,0 +1,29 @@
+T 1550186175 19*	Now talking on 22#mturk
+T 1550186175 22*	Topic for 22#mturk is: Welcome to #mturk chat | Feel free to ask questions, but please be patient for an answer. | https://i.imgur.com/6T3iLep.png | ?helptopics for helpful info | Forums at ##tjbot_casual l7lrs2cucf1u
+T 1550186175 22*	Topic for 22#mturk set by 26TjHoHoHo!Tjololo@not.safe.for.turk (24Fri Jan 18 11:01:22 2019)
+T 1550186176 29*	Replaying up to 10 lines of pre-join history spanning up to 900 seconds
+T 1550187683 18<19SubWatch18>	Self post: "Are the people who claim you can make hundreds of dollars per month just Amazon shills?" posted in /r/mturk by EverythingIsSoSincur. http://redd.it/aqq9o1
+T 1550188411 18<19SubWatch18>	Link post: "Fashion Product Matching HITs causing me lots of rejections because of details like these. I said they were different, and the instructions say pay attention to details, but apparently they're the same. 😫" posted in /r/mturk by mckatie1980. http://redd.it/aqqe23
+T 1550192841 18<19SubWatch18>	Self post: "You or someone at this location has already taken this study or a study in this study group." posted in /r/mturk by americanah22. http://redd.it/aqr2wh
+T 1550193476 23*	swift110_ (swift110@user/swift11023) has joined
+T 1550195573 18<19SubWatch18>	Link post: "[NSFW] Fiancé does not turk...it was hard not to crack up while he was listening to me work on this hit." posted in /r/mturk by Letmetalktoyouuu. http://redd.it/aqrhw2 NSFW
+T 1550209567 20*	Disconnected (20Invalid argument)
+T 1550209580 22*	26Heebo sets mode 24+I on 22Heebo
+T 1550209580 22*	26Heebo sets mode 24+w on 22Heebo
+T 1550209580 22*	26Heebo sets mode 24+x on 22Heebo
+T 1550209580 22*	26Heebo sets mode 24+i on 22Heebo
+T 1550209580 -18NickServ-	Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1550209580 -18Global-	[Logon News - Dec 16 00:10:31 2018 UTC] By connecting and using the Snoonet IRC network you consent to our privacy policy located at https://snoonet.org/privacy-policy
+T 1550209580 -18Global-	[Logon News - Dec 16 00:10:31 2018 UTC] Snoonet is partnered with Private Internet Access! Make sure to keep secure by connecting to our secure port irc.snoonet.org:6697 and for best security, use a VPN Service! www.privateinternetaccess.com
+T 1550209580 -18Global-	[Logon News - Dec 16 00:10:31 2018 UTC] For speedy live help and assistance, type /join #help or visit www.snoonet.org/help - To see which communities are here, type /list or visit www.snoonet.org/communities
+T 1550209582 19*	Now talking on 22#mturk
+T 1550209582 22*	Topic for 22#mturk is: Welcome to #mturk chat | Feel free to ask questions, but please be patient for an answer. | https://i.imgur.com/6T3iLep.png | ?helptopics for helpful info | Forums at ##tjbot_casual l7lrs2cucf1u
+T 1550209582 22*	Topic for 22#mturk set by 26TjHoHoHo!Tjololo@not.safe.for.turk (24Fri Jan 18 11:01:22 2019)
+T 1550209582 29*	Replaying up to 10 lines of pre-join history spanning up to 900 seconds
+T 1550209786 18<19SubWatch18>	Self post: "Way to get email notifications when a new hit is accepted?" posted in /r/mturk by wbhyatt. http://redd.it/aqtggj
+T 1550211700 18<19SubWatch18>	Self post: "Did anyone do the Make A Wish hit today? You have to find links to photos of kids getting their wish?" posted in /r/mturk by TransplantedMan. http://redd.it/aqtp8e
+T 1550214998 18<19SubWatch18>	Self post: "/r/mturk Daily Discussion - February 15, 2019" posted in /r/mturk by AutoModerator. http://redd.it/aqu2sf
+T 1550220659 FiSHLiM plugin unloaded
+T 1550220659 Checksum	hexchat_print called without a valid context.
+T 1550220659 Sysinfo	hexchat_command called without a valid context.
+T 1550220659 Sysinfo	hexchat_print called without a valid context.

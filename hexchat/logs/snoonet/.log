@@ -1,0 +1,42 @@
+**** BEGIN LOGGING AT Thu Feb 14 17:12:59 2019
+
+Feb 14 17:12:59 *	Connecting to irc.snoonet.org (2604:a880:cad:d0::bfb:6001:6697)
+Feb 14 17:12:59 *	* Subject: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+Feb 14 17:12:59 *	* Issuer: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+Feb 14 17:12:59 *	* Subject: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+Feb 14 17:12:59 *	* Issuer: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+Feb 14 17:12:59 *	* Subject: /OU=Domain Control Validated/CN=*.snoonet.org
+Feb 14 17:12:59 *	* Issuer: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+Feb 14 17:13:00 *	* Certification info:
+Feb 14 17:13:00 *	  Subject:
+Feb 14 17:13:00 *	    OU=Domain Control Validated
+Feb 14 17:13:00 *	    CN=*.snoonet.org
+Feb 14 17:13:00 *	  Issuer:
+Feb 14 17:13:00 *	    C=US
+Feb 14 17:13:00 *	    ST=Arizona
+Feb 14 17:13:00 *	    L=Scottsdale
+Feb 14 17:13:00 *	    O=GoDaddy.com, Inc.
+Feb 14 17:13:00 *	    OU=http:
+Feb 14 17:13:00 *	    
+Feb 14 17:13:00 *	    certs.godaddy.com
+Feb 14 17:13:00 *	    repository
+Feb 14 17:13:00 *	    
+Feb 14 17:13:00 *	    CN=Go Daddy Secure Certificate Authority - G2
+Feb 14 17:13:00 *	  Public key algorithm: rsaEncryption (2048 bits)
+Feb 14 17:13:00 *	  Sign algorithm sha256WithRSAEncryption
+Feb 14 17:13:00 *	  Valid since Mar  1 20:31:09 2018 GM to Mar  1 20:31:09 2019 GM
+Feb 14 17:13:00 *	* Cipher info:
+Feb 14 17:13:00 *	  Version: TLSv1.2, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Feb 14 17:13:00 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Thu Feb 14 23:46:20 2019
+
+Feb 14 23:46:20 *	Heebo sets mode +I on Heebo
+Feb 14 23:46:20 *	Heebo sets mode +w on Heebo
+Feb 14 23:46:20 *	Heebo sets mode +x on Heebo
+Feb 14 23:46:20 *	Heebo sets mode +i on Heebo
+Feb 14 23:46:20 -NickServ-	Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+Feb 14 23:46:20 -Global-	[Logon News - Dec 16 00:10:31 2018 UTC] By connecting and using the Snoonet IRC network you consent to our privacy policy located at https://snoonet.org/privacy-policy
+Feb 14 23:46:20 -Global-	[Logon News - Dec 16 00:10:31 2018 UTC] Snoonet is partnered with Private Internet Access! Make sure to keep secure by connecting to our secure port irc.snoonet.org:6697 and for best security, use a VPN Service! www.privateinternetaccess.com
+Feb 14 23:46:20 -Global-	[Logon News - Dec 16 00:10:31 2018 UTC] For speedy live help and assistance, type /join #help or visit www.snoonet.org/help - To see which communities are here, type /list or visit www.snoonet.org/communities
+**** ENDING LOGGING AT Thu Feb 14 23:46:22 2019
+

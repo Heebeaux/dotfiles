@@ -1,0 +1,4 @@
+T 1550185553 19*	Now talking on 22#manjaro-talk
+T 1550185553 22*	Topic for 22#manjaro-talk is: #salt
+T 1550185553 22*	Topic for 22#manjaro-talk set by 26hiraetari!~hiraetari@89.109.200.238 (24Wed Feb 13 13:31:36 2019)
+T 1550185556 FiSHLiM plugin unloaded

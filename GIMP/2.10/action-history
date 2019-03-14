@@ -1,0 +1,12 @@
+# GIMP action-history
+
+(history-item "file-open" 0)
+(history-item "image-properties" 0)
+(history-item "plug-in-metadata-viewer" 0)
+(history-item "file-quit" 1)
+(history-item "edit-copy" 0)
+(history-item "edit-paste-as-new-image-short" 0)
+(history-item "file-save-as" 0)
+(history-item "file-export-as" 1)
+
+# end of action-history

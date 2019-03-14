@@ -1,0 +1,88 @@
+**** BEGIN LOGGING AT Thu Feb 14 17:05:37 2019
+
+Feb 14 17:05:37 *	*** Looking up your hostname...
+Feb 14 17:05:37 *	*** Checking Ident
+Feb 14 17:05:37 *	*** Couldn't look up your hostname
+Feb 14 17:05:47 *	*** No Ident response
+Feb 14 17:05:47 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Feb 14 17:05:47 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Feb 14 17:05:47 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Thu Feb 14 17:05:47 2019
+
+**** BEGIN LOGGING AT Thu Feb 14 17:05:47 2019
+
+Feb 14 17:05:47 *	Welcome to the freenode Internet Relay Chat Network manjaroi3
+Feb 14 17:05:47 *	Your host is leguin.freenode.net[2001:6b0:e:2a18::119/6667], running version ircd-seven-1.1.7
+Feb 14 17:05:47 *	This server was created Tue Sep 25 2018 at 13:21:19 UTC
+Feb 14 17:05:47 *	leguin.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Feb 14 17:05:47 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Feb 14 17:05:47 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE KNOCK :are supported by this server
+Feb 14 17:05:47 *	ETRACE SAFELIST ELIST=CTU WHOX :are supported by this server
+Feb 14 17:05:47 *	There are 114 users and 87503 invisible on 32 servers
+Feb 14 17:05:47 *	36 :IRC Operators online
+Feb 14 17:05:47 *	1 :unknown connection(s)
+Feb 14 17:05:47 *	51484 :channels formed
+Feb 14 17:05:47 *	I have 5324 clients and 1 servers
+Feb 14 17:05:47 *	5324 6762 :Current local users 5324, max 6762
+Feb 14 17:05:47 *	87617 92246 :Current global users 87617, max 92246
+Feb 14 17:05:47 *	Highest connection count: 6763 (6762 clients) (239253 connections received)
+Feb 14 17:05:47 *	- leguin.freenode.net Message of the Day - 
+Feb 14 17:05:47 *	- Welcome to leguin.freenode.net in Umeå, Sweden, EU! Thanks to
+Feb 14 17:05:47 *	- the Academic Computer Club at Umeå University for sponsoring
+Feb 14 17:05:47 *	- this server!
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- LE GUIN, URSULA K. (1929-2018) Born in Berkeley, California,
+Feb 14 17:05:47 *	- Ursula Le Guin was an American author primarily known for
+Feb 14 17:05:47 *	- her Science Fiction and Fantasy. She was awarded the Hugo
+Feb 14 17:05:47 *	- and Nebula awards, and was best known for her Earthsea
+Feb 14 17:05:47 *	- and Hainish series.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- Welcome to freenode - supporting the free and open source
+Feb 14 17:05:47 *	- software communities since 1998.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- By connecting to freenode you indicate that you have read and
+Feb 14 17:05:47 *	- accept our policies and guidelines as set out on https://freenode.net
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- In the event that you observe behaviour that contravenes our policies,
+Feb 14 17:05:47 *	- please notify a volunteer staff member via private message, or send us an
+Feb 14 17:05:47 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Feb 14 17:05:47 *	- situation within a reasonable period of time, and we may request further
+Feb 14 17:05:47 *	- information or, as appropriate, involve other parties such as channel operators 
+Feb 14 17:05:47 *	- Group Contacts representing an on-topic group.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- freenode runs an open proxy scanner.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- If you are looking for assistance, you may be able to find a list of 
+Feb 14 17:05:47 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Feb 14 17:05:47 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Feb 14 17:05:47 *	- any of us at any time. Please note that freenode predominantly provides 
+Feb 14 17:05:47 *	- assistance via private message, and while we have a network channel the 
+Feb 14 17:05:47 *	- primary venue for support requests is via private message to a member 
+Feb 14 17:05:47 *	- of the volunteer staff team.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- From time to time, volunteer staff may send server-wide notices relating to
+Feb 14 17:05:47 *	- the project, or the communities that we host. The majority of such notices
+Feb 14 17:05:47 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Feb 14 17:05:47 *	- do not miss them. Important messages relating to the freenode project, including
+Feb 14 17:05:47 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Feb 14 17:05:47 *	- global notices.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- Representing an on-topic project? Don't forget to register, more information
+Feb 14 17:05:47 *	- can be found on the https://freenode.net website under "Group Registration".
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Feb 14 17:05:47 *	- network going for close to two decades.
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Feb 14 17:05:47 *	- and everyone else who made this year's freenode #live conference amazing.
+Feb 14 17:05:47 *	- https://freenode.net/news/live-2018
+Feb 14 17:05:47 *	-  
+Feb 14 17:05:47 *	- Thank you for using freenode!
+Feb 14 17:05:47 *	End of /MOTD command.
+Feb 14 17:05:47 *	manjaroi3 sets mode +i on manjaroi3
+Feb 14 17:05:47 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Feb 14 17:05:48 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Feb 14 17:05:49 *	Received a CTCP VERSION from freenode-connect
+Feb 14 17:05:53 *	#manjaro #manjaro-unregistered :Forwarding to another channel
+Feb 14 17:05:56 Checksum plugin unloaded
+Feb 14 17:05:56 Sysinfo plugin unloaded

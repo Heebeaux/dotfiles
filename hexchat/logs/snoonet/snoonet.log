@@ -1,0 +1,202 @@
+**** BEGIN LOGGING AT Thu Feb 14 17:13:00 2019
+
+Feb 14 17:13:00 *	*** Looking up your hostname...
+Feb 14 17:13:00 *	*** Could not resolve your hostname: Domain name not found; using your IP address (2605:6000:8a81:6500:aef6:a5c4:156b:9a9e) instead.
+Feb 14 17:13:00 *	Capabilities supported: invite-notify away-notify extended-join account-notify sts=duration=15552000,port=6697 draft/sts=duration=15552000,port=6697 multi-prefix sasl userhost-in-names
+Feb 14 17:13:00 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Feb 14 17:13:00 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG eYmR[P{Bzi or /raw PONG eYmR[P{Bzi now.
+Feb 14 17:13:00 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Feb 14 17:13:01 *	Welcome to Snoonet!
+**** ENDING LOGGING AT Thu Feb 14 17:13:01 2019
+
+**** BEGIN LOGGING AT Thu Feb 14 17:13:01 2019
+
+Feb 14 17:13:01 *	Welcome to the Snoonet IRC Network Heebo!heebo@2605:6000:8a81:6500:aef6:a5c4:156b:9a9e
+Feb 14 17:13:01 *	Your host is trash-panda.snoonet.org, running version InspIRCd-2.0
+Feb 14 17:13:01 *	This server was created 04:00:18 Jan 13 2019
+Feb 14 17:13:01 *	trash-panda.snoonet.org InspIRCd-2.0 BHILRSTWcdghikorswx ABCDFHIJKLMNOPQRSTWXYZbcdefghijklmnoprstuvwxz FHIJLWXYZbdefghjklovwx
+Feb 14 17:13:01 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLWdfjlx,ABCDKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+Feb 14 17:13:01 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+Feb 14 17:13:01 *	SECURELIST SILENCE=32 SSL=[::]:6697 STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+Feb 14 17:13:01 *	1TPAANXA3 :your unique ID
+Feb 14 17:13:01 *	trash-panda.snoonet.org message of the day
+Feb 14 17:13:01 *	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	-   _____                              _   
+Feb 14 17:13:01 *	-  / ____|                            | |  
+Feb 14 17:13:01 *	- | (___  _ __   ___   ___  _ __   ___| |_ 
+Feb 14 17:13:01 *	-  \___ \| '_ \ / _ \ / _ \| '_ \ / _ \ __|
+Feb 14 17:13:01 *	-  ____) | | | | (_) | (_) | | | |  __/ |_ 
+Feb 14 17:13:01 *	- |_____/|_| |_|\___/ \___/|_| |_|\___|\__|
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Welcome to the Snoonet Chat Network.
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- By connecting to Snoonet you indicate that you have read and
+Feb 14 17:13:01 *	- accept our policies as set out on http://www.snoonet.org/rules
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Snoonet runs an open proxy scanner.  If you continue connecting
+Feb 14 17:13:01 *	- to Snoonet, you agree to this scanning to protect our network
+Feb 14 17:13:01 *	- from scammers, spammers and the propagation of viruses.
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Please visit our ruleset listed at http://www.snoonet.org/rules 
+Feb 14 17:13:01 *	- Yes, this is so important we list it twice. Snoonet does not have
+Feb 14 17:13:01 *	- many network wide rules but the ones we do have we enforce
+Feb 14 17:13:01 *	- to the best of our ability. This may also include the use of
+Feb 14 17:13:01 *	- automated oper utilities and/or standalone network bots that may
+Feb 14 17:13:01 *	- join/part your channel, or the mass setting of channel modes across
+Feb 14 17:13:01 *	- all network channels to protect you and your users during times 
+Feb 14 17:13:01 *	- of network turmoil. 
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Please join #help if you have questions about any of the above
+Feb 14 17:13:01 *	- information.
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Network Administration may remove any problem user at any time
+Feb 14 17:13:01 *	- for the betterment of all users. This includes, but is not limited
+Feb 14 17:13:01 *	- to, trolling, attempting to receive or spread users personal
+Feb 14 17:13:01 *	- information (also known as Doxxing), vote brigading on any social
+Feb 14 17:13:01 *	- media websites, or any thing that network administration sees as 
+Feb 14 17:13:01 *	- potentially harmful to the atmosphere of Snoonet.
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Our network rules are located here: http://www.snoonet.org/rules
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- Ignorance is not an excuse - most of the network rules are common sense.
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- As of the last MOTD Update, Snoonet has never received a National
+Feb 14 17:13:01 *	- Security Letter, an order under the Foreign Intelligence Surveillance
+Feb 14 17:13:01 *	- Act, or any other classified request for user information.
+Feb 14 17:13:01 *	- 
+Feb 14 17:13:01 *	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+Feb 14 17:13:01 *	- MOTD Last Updated:
+Feb 14 17:13:01 *	- Sat Jan 12 22:34:11 UTC 2019
+Feb 14 17:13:01 *	End of message of the day.
+Feb 14 17:13:01 *	There are 193 users and 4105 invisible on 24 servers
+Feb 14 17:13:01 *	37 :operator(s) online
+Feb 14 17:13:01 *	1 :unknown connections
+Feb 14 17:13:01 *	5184 :channels formed
+Feb 14 17:13:01 *	I have 529 clients and 1 servers
+Feb 14 17:13:01 *	Current Local Users: 529  Max: 707
+Feb 14 17:13:01 *	Current Global Users: 4298  Max: 4371
+Feb 14 17:13:01 *	irc-nvlm4a.2v56.4ppo.eaceia.IP :is now your displayed host
+Feb 14 17:13:01 *	Heebo sets mode +I on Heebo
+Feb 14 17:13:01 *	Heebo sets mode +w on Heebo
+Feb 14 17:13:01 *	Heebo sets mode +x on Heebo
+Feb 14 17:13:01 *	Heebo sets mode +i on Heebo
+Feb 14 17:13:01 *	*** You are connected using SSL cipher "DHE-RSA-AES256-GCM-SHA384"
+Feb 14 17:13:01 -NickServ-	Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+Feb 14 17:13:01 -Global-	[Logon News - Dec 16 00:10:31 2018 UTC] By connecting and using the Snoonet IRC network you consent to our privacy policy located at https://snoonet.org/privacy-policy
+Feb 14 17:13:01 -Global-	[Logon News - Dec 16 00:10:31 2018 UTC] Snoonet is partnered with Private Internet Access! Make sure to keep secure by connecting to our secure port irc.snoonet.org:6697 and for best security, use a VPN Service! www.privateinternetaccess.com
+Feb 14 17:13:01 -Global-	[Logon News - Dec 16 00:10:31 2018 UTC] For speedy live help and assistance, type /join #help or visit www.snoonet.org/help - To see which communities are here, type /list or visit www.snoonet.org/communities
+Feb 14 23:46:07 *	Disconnected (Invalid argument)
+Feb 14 23:46:17 *	Looking up irc.snoonet.org
+Feb 14 23:46:17 *	Connecting to irc.snoonet.org (2604:a880:cad:d0::bfb:6001:6697)
+Feb 14 23:46:18 *	* Subject: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+Feb 14 23:46:18 *	* Issuer: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+Feb 14 23:46:18 *	* Subject: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+Feb 14 23:46:18 *	* Issuer: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+Feb 14 23:46:18 *	* Subject: /OU=Domain Control Validated/CN=*.snoonet.org
+Feb 14 23:46:18 *	* Issuer: /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+Feb 14 23:46:19 *	* Certification info:
+Feb 14 23:46:19 *	  Subject:
+Feb 14 23:46:19 *	    OU=Domain Control Validated
+Feb 14 23:46:19 *	    CN=*.snoonet.org
+Feb 14 23:46:19 *	  Issuer:
+Feb 14 23:46:19 *	    C=US
+Feb 14 23:46:19 *	    ST=Arizona
+Feb 14 23:46:19 *	    L=Scottsdale
+Feb 14 23:46:19 *	    O=GoDaddy.com, Inc.
+Feb 14 23:46:19 *	    OU=http:
+Feb 14 23:46:19 *	    
+Feb 14 23:46:19 *	    certs.godaddy.com
+Feb 14 23:46:19 *	    repository
+Feb 14 23:46:19 *	    
+Feb 14 23:46:19 *	    CN=Go Daddy Secure Certificate Authority - G2
+Feb 14 23:46:19 *	  Public key algorithm: rsaEncryption (2048 bits)
+Feb 14 23:46:19 *	  Sign algorithm sha256WithRSAEncryption
+Feb 14 23:46:19 *	  Valid since Mar  1 20:31:09 2018 GM to Mar  1 20:31:09 2019 GM
+Feb 14 23:46:19 *	* Cipher info:
+Feb 14 23:46:19 *	  Version: TLSv1.2, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Feb 14 23:46:19 *	Connected. Now logging in.
+Feb 14 23:46:19 *	*** Looking up your hostname...
+Feb 14 23:46:19 *	*** Could not resolve your hostname: Domain name not found; using your IP address (2605:6000:8a81:6500:aef6:a5c4:156b:9a9e) instead.
+Feb 14 23:46:19 *	Capabilities supported: invite-notify away-notify extended-join account-notify sts=duration=15552000,port=6697 draft/sts=duration=15552000,port=6697 multi-prefix sasl userhost-in-names
+Feb 14 23:46:19 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Feb 14 23:46:19 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG CYAtFxm]^Q or /raw PONG CYAtFxm]^Q now.
+Feb 14 23:46:19 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Feb 14 23:46:20 *	Welcome to Snoonet!
+Feb 14 23:46:20 *	Welcome to the Snoonet IRC Network Heebo!heebo@2605:6000:8a81:6500:aef6:a5c4:156b:9a9e
+Feb 14 23:46:20 *	Your host is trash-panda.snoonet.org, running version InspIRCd-2.0
+Feb 14 23:46:20 *	This server was created 04:00:18 Jan 13 2019
+Feb 14 23:46:20 *	trash-panda.snoonet.org InspIRCd-2.0 BHILRSTWcdghikorswx ABCDFHIJKLMNOPQRSTWXYZbcdefghijklmnoprstuvwxz FHIJLWXYZbdefghjklovwx
+Feb 14 23:46:20 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLWdfjlx,ABCDKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+Feb 14 23:46:20 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+Feb 14 23:46:20 *	SECURELIST SILENCE=32 SSL=[::]:6697 STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+Feb 14 23:46:20 *	1TPAAN12P :your unique ID
+Feb 14 23:46:20 *	trash-panda.snoonet.org message of the day
+Feb 14 23:46:20 *	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	-   _____                              _   
+Feb 14 23:46:20 *	-  / ____|                            | |  
+Feb 14 23:46:20 *	- | (___  _ __   ___   ___  _ __   ___| |_ 
+Feb 14 23:46:20 *	-  \___ \| '_ \ / _ \ / _ \| '_ \ / _ \ __|
+Feb 14 23:46:20 *	-  ____) | | | | (_) | (_) | | | |  __/ |_ 
+Feb 14 23:46:20 *	- |_____/|_| |_|\___/ \___/|_| |_|\___|\__|
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Welcome to the Snoonet Chat Network.
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- By connecting to Snoonet you indicate that you have read and
+Feb 14 23:46:20 *	- accept our policies as set out on http://www.snoonet.org/rules
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Snoonet runs an open proxy scanner.  If you continue connecting
+Feb 14 23:46:20 *	- to Snoonet, you agree to this scanning to protect our network
+Feb 14 23:46:20 *	- from scammers, spammers and the propagation of viruses.
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Please visit our ruleset listed at http://www.snoonet.org/rules 
+Feb 14 23:46:20 *	- Yes, this is so important we list it twice. Snoonet does not have
+Feb 14 23:46:20 *	- many network wide rules but the ones we do have we enforce
+Feb 14 23:46:20 *	- to the best of our ability. This may also include the use of
+Feb 14 23:46:20 *	- automated oper utilities and/or standalone network bots that may
+Feb 14 23:46:20 *	- join/part your channel, or the mass setting of channel modes across
+Feb 14 23:46:20 *	- all network channels to protect you and your users during times 
+Feb 14 23:46:20 *	- of network turmoil. 
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Please join #help if you have questions about any of the above
+Feb 14 23:46:20 *	- information.
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Network Administration may remove any problem user at any time
+Feb 14 23:46:20 *	- for the betterment of all users. This includes, but is not limited
+Feb 14 23:46:20 *	- to, trolling, attempting to receive or spread users personal
+Feb 14 23:46:20 *	- information (also known as Doxxing), vote brigading on any social
+Feb 14 23:46:20 *	- media websites, or any thing that network administration sees as 
+Feb 14 23:46:20 *	- potentially harmful to the atmosphere of Snoonet.
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Our network rules are located here: http://www.snoonet.org/rules
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- Ignorance is not an excuse - most of the network rules are common sense.
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- As of the last MOTD Update, Snoonet has never received a National
+Feb 14 23:46:20 *	- Security Letter, an order under the Foreign Intelligence Surveillance
+Feb 14 23:46:20 *	- Act, or any other classified request for user information.
+Feb 14 23:46:20 *	- 
+Feb 14 23:46:20 *	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+Feb 14 23:46:20 *	- MOTD Last Updated:
+Feb 14 23:46:20 *	- Sat Jan 12 22:34:11 UTC 2019
+Feb 14 23:46:20 *	End of message of the day.
+Feb 14 23:46:20 *	There are 193 users and 3948 invisible on 24 servers
+Feb 14 23:46:20 *	37 :operator(s) online
+Feb 14 23:46:20 *	1 :unknown connections
+Feb 14 23:46:20 *	5171 :channels formed
+Feb 14 23:46:20 *	I have 520 clients and 1 servers
+Feb 14 23:46:20 *	Current Local Users: 520  Max: 707
+Feb 14 23:46:20 *	Current Global Users: 4141  Max: 4371
+Feb 14 23:46:20 *	irc-nvlm4a.2v56.4ppo.eaceia.IP :is now your displayed host
+Feb 14 23:46:20 *	*** You are connected using SSL cipher "DHE-RSA-AES256-GCM-SHA384"
+**** ENDING LOGGING AT Thu Feb 14 23:52:25 2019
+
+**** BEGIN LOGGING AT Thu Feb 14 23:52:25 2019
+

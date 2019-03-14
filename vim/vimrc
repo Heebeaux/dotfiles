@@ -1,0 +1,22 @@
+set nocompatible
+filetype off
+filetype plugin indent on
+set autoindent
+set incsearch
+set hlsearch
+set number relativenumber
+set showcmd
+set ignorecase
+syntax enable
+"set t_8f=[38;2;%lu;%lu;%lum
+"set t_8b=[48;2;%lu;%lu;%lum
+"set termguicolors
+set t_Co=16
+set background=dark
+"let g:rehash256 = 1
+"let g:molokai_original = 1
+colorscheme solarized
+au BufNewFile,BufRead *.go setlocal noet ts=4 sw=4 sts=4
+au BufNewFile,BufRead *.py setlocal noet ts=4 sw=4 sts=4
+au BufNewFile,BufRead *.c setlocal noet ts=4 sw=4 sts=4
+au CompleteDone * pclose
