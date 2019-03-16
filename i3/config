@@ -286,8 +286,11 @@ exec --no-startup-id start_conky_maia
 exec --no-startup-id xautolock -time 30 -locker blurlock
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
+
+# Heebo's autostarts
 exec --no-startup-id ~/coding/shell/caps_esc.sh
 exec_always --no-startup-id numlockx &
+exec --no-startup-id ~/coding/python/hotstrings.py ~/.config/hotstrings.json
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:

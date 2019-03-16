@@ -16,6 +16,7 @@ general {
 	markup = "pango"
 }
 
+order += "keyboard_locks"
 order += "cpu_usage"
 # order += "load"
 order += "disk /"
@@ -27,6 +28,9 @@ order += "battery_level"
 # order += "load"
 order += "tztime local"
 # order += "ipv6"
+
+keyboard_locks {
+}
 
 cpu_usage {
         format = " cpu  %usage "

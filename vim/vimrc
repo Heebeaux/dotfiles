@@ -6,6 +6,7 @@ set incsearch
 set hlsearch
 set number relativenumber
 set showcmd
+set noet ts=4 sw=4 sts=4
 set ignorecase
 syntax enable
 "set t_8f=[38;2;%lu;%lu;%lum
