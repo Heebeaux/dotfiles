@@ -8,6 +8,7 @@ set number relativenumber
 set showcmd
 set noet ts=4 sw=4 sts=4
 set ignorecase
+set nobackup
 syntax enable
 "set t_8f=[38;2;%lu;%lu;%lum
 "set t_8b=[48;2;%lu;%lu;%lum
@@ -26,3 +27,14 @@ au BufReadPost *
       \ | endif
 
 au CompleteDone * pclose
+let mapleader = "\<Space>"
+map <leader>ev :vsp $MYVIMRC<CR>
+map <leader>sv :so $MYVIMRC<CR>
+map <Up> <nop>
+map! <Up> <nop>
+map <Down> <nop>
+map! <Down> <nop>
+map <Left> <nop>
+map! <Left> <nop>
+map <Right> <nop>
+map! <Right> <nop>
